@@ -1,6 +1,4 @@
-package provider;
-
-import supporter.ServiceE;
+package providersocket;
 
 /**
  * The Client wants to use the Service.

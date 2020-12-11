@@ -1,4 +1,4 @@
-package provider;
+package providersocket;
 
 import exceptions.IllegalParameterException;
 import exceptions.ServiceNotAvailableException;

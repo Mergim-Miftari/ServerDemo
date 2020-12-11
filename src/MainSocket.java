@@ -1,11 +1,11 @@
-import provider.Client;
-import provider.Server;
-import provider.Service;
+import providersocket.Client;
+import providersocket.Server;
+import providersocket.Service;
 
 /**
  * Main method for Server-Client-Demo.
  */
-public class Main {
+public class MainSocket {
     /**
      * Main-Method
      * @param args
